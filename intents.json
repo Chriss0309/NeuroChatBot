@@ -1,0 +1,39 @@
+{"intents": [
+  {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "wassup", "Greetings", "how is it going?"],
+    "responses": ["hello!", "What can I do for you ?"]
+  },
+   {"tag": "goodbye",
+    "patterns": ["bye", "baibai", "bye bye", "sayonara", "byebye", "get outta here"],
+    "responses": ["aightt bro peace out!", "boy if u dont"]
+  },
+   {"tag": "age",
+    "patterns": ["How old are you"],
+    "responses": ["I'm 12 years old"]
+  },
+   {"tag": "weather",
+    "patterns": ["How's the weather today?"],
+    "responses": ["It's pretty fine, just look out you window "]
+  },
+   {"tag": "roast",
+    "patterns": ["roast me"],
+    "responses": ["boy if u dont get your lazy ass outta here before i whoop your ass", "shut your ass up", "you kiss your mama wif those lips?"]
+  },
+   {"tag": "question",
+    "patterns": ["what is this song?"],
+    "responses": ["Hold on, listening...."]
+  },
+   {"tag": "call",
+    "patterns": ["please call somebody"],
+    "responses": ["Okay, calling somebody....."]
+  },
+   {"tag": "stock",
+    "patterns": ["what's the best stock right now?", "Which stock has dropped in price?", "please list out top 3 recommended stocks"],
+    "responses": ["Apple stock", "Tesla stock to the moon baby", "Adobe, Tesla, Google, Meta, Amazon..."]
+  },
+   {"tag": "questions",
+    "patterns": ["What's your name?"],
+    "responses": ["My name is Jeff"]
+  }
+
+]}
