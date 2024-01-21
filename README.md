@@ -13,10 +13,3 @@ User-Friendly Interface: Designed with simplicity in mind, NeuroChatBot provides
 
 Scalable and Modular Design: The chatbot's architecture is both scalable and modular, facilitating easy updates and customization according to specific user needs or preferences.
 
-Getting Started:
-
-To get started with NeuroChatBot, clone this repository and follow the installation instructions provided in the README. The setup guide will walk you through installing dependencies, training the model, and launching the chatbot.
-
-Contribute:
-
-NeuroChatBot is an open-source project, and contributions are warmly welcomed. Whether you're looking to fix bugs, enhance features, or propose new functionalities, your input is valuable. Check out our contributing guidelines for more information on making contributions.
