@@ -5,7 +5,7 @@
   },
    {"tag": "goodbye",
     "patterns": ["bye", "baibai", "bye bye", "sayonara", "byebye", "get outta here"],
-    "responses": ["aightt bro peace out!", "boy if u dont"]
+    "responses": ["aightt bro peace out!"]
   },
    {"tag": "age",
     "patterns": ["How old are you"],
@@ -17,7 +17,7 @@
   },
    {"tag": "roast",
     "patterns": ["roast me"],
-    "responses": ["boy if u dont get your lazy ass outta here before i whoop your ass", "shut your ass up", "you kiss your mama wif those lips?"]
+    "responses": ["you are handsome"]
   },
    {"tag": "question",
     "patterns": ["what is this song?"],
@@ -29,7 +29,7 @@
   },
    {"tag": "stock",
     "patterns": ["what's the best stock right now?", "Which stock has dropped in price?", "please list out top 3 recommended stocks"],
-    "responses": ["Apple stock", "Tesla stock to the moon baby", "Adobe, Tesla, Google, Meta, Amazon..."]
+    "responses": ["Apple stock", "Adobe, Tesla, Google, Meta, Amazon..."]
   },
    {"tag": "questions",
     "patterns": ["What's your name?"],
