@@ -5,7 +5,7 @@
   },
    {"tag": "goodbye",
     "patterns": ["bye", "baibai", "bye bye", "sayonara", "byebye", "get outta here"],
-    "responses": ["aightt bro peace out!"]
+    "responses": ["peace out!"]
   },
    {"tag": "age",
     "patterns": ["How old are you"],
